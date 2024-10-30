@@ -1,0 +1,25 @@
+body{
+    background-color: wheat;
+}
+
+header{
+    background-color: grey;
+    box-shadow: 2px 4px 8px black;
+}
+
+button{
+    width: 50%;
+    margin: auto;
+    border-radius: 50px;
+    margin-top: 1rem;    
+}
+
+input[type="date"],
+input[type="number"],
+select {
+    padding-right: 1rem;
+}
+
+input{
+    border-radius: 50px !important;
+}
